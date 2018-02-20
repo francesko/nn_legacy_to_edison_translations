@@ -1,0 +1,1196 @@
+{
+  "1BackRotation": {
+    "de": "Drehfluss",
+    "en": "Turning Tops",
+    "fr": "Tables tournantes",
+    "ru": "Волчки"
+  },
+  "Addetector": {
+    "de": "Blitzmerker",
+    "en": "Polaroid Picture",
+    "fr": "Polaphoto",
+    "ru": "Полароид"
+  },
+  "Assessment PATHFINDER": {
+    "de": "Gedächtnis",
+    "en": "Memory",
+    "fr": "Mémoire",
+    "ru": "Память"
+  },
+  "BinMemo": {
+    "de": "Multimerker",
+    "en": "Memobox",
+    "fr": "Mémoboîte",
+    "ru": "Мульти-Мозг"
+  },
+  "BINMEMO X": {
+    "de": "Multimerker",
+    "en": "Memobox",
+    "fr": "Mémoboîte",
+    "ru": "Мульти-Мозг"
+  },
+  "Calculator": {
+    "de": "Blitzrechner",
+    "en": "Math Blitz",
+    "fr": "Calcul éclair",
+    "ru": "Калькулятор"
+  },
+  "CALCULATOR X": {
+    "de": "Blitzrechner",
+    "en": "Math Blitz",
+    "fr": "Calcul éclair",
+    "ru": "Калькулятор"
+  },
+  "Cashier": {
+    "de": "Kassendenker",
+    "en": "Cashier",
+    "fr": "Caissier",
+    "ru": "Кассир"
+  },
+  "ColorConfusion": {
+    "de": "Farbverwirrung",
+    "en": "Color Confusion",
+    "fr": "Colormania",
+    "ru": "Цветомат"
+  },
+  "ColorCraze": {
+    "de": "Colorado",
+    "en": "Color Craze",
+    "fr": "Colorado",
+    "ru": "Колорадо"
+  },
+  "COLORCRAZE X": {
+    "de": "Colorado",
+    "en": "Color Craze",
+    "fr": "Colorado",
+    "ru": "Колорадо"
+  },
+  "D2 X": {
+    "de": "D2 X",
+    "en": "D2 X",
+    "fr": "D2 X",
+    "ru": "D2 X"
+  },
+  "Detector": {
+    "de": "Ultrakurzzeitmerker",
+    "en": "Split Second",
+    "fr": "Secondata",
+    "ru": "Доля секунды"
+  },
+  "DijkstraFinder": {
+    "de": "Abkürzer",
+    "en": "Shortcut",
+    "fr": "Passe-chemin",
+    "ru": "Скороход"
+  },
+  "Drehfluss": {
+    "de": "Drehfluss",
+    "en": "Tilted Memories",
+    "fr": "Mémo penchant",
+    "ru": "Волчки"
+  },
+  "Dual1Back": {
+    "de": "Dualfluss",
+    "en": "Mixed Memories",
+    "fr": "Mémomix",
+    "ru": "Предшественник"
+  },
+  "DualNBack": {
+    "de": "Dualfluss",
+    "en": "Mixed Memories",
+    "fr": "Mémomix",
+    "ru": "Предшественник"
+  },
+  "DynamicSequence": {
+    "de": "Blitzblick",
+    "en": "Flash Glance",
+    "fr": "Regard éclair",
+    "ru": "Быстрый взгляд"
+  },
+  "DynamicSequence": {
+    "de": "Blitzblick",
+    "en": "Flash Glance",
+    "fr": "Regard éclair",
+    "ru": "Быстрый взгляд"
+  },
+  "FormFever": {
+    "de": "Formfieber",
+    "en": "Form Fever",
+    "fr": "Formofolie",
+    "ru": "Фигуранты"
+  },
+  "FORMFEVER SPEED X": {
+    "de": "Formfieber Express",
+    "en": "Form Fever Speed",
+    "fr": "Formofolie express",
+    "ru": "Фигуранты Экспресс"
+  },
+  "FORMFEVER X": {
+    "de": "Formfieber",
+    "en": "Form Fever",
+    "fr": "Formofolie",
+    "ru": "Фигуранты"
+  },
+  "FormFusion": {
+    "de": "Formgießen",
+    "en": "Form Fusion",
+    "fr": "Fusioforme",
+    "ru": "Слияние фигур"
+  },
+  "FormFusion": {
+    "de": "Formgießen",
+    "en": "Form Fusion",
+    "fr": "Fusioforme",
+    "ru": "Слияние фигур"
+  },
+  "FormSelector": {
+    "de": "Formbar",
+    "en": "Plastic Puzzle",
+    "fr": "Combipuzzle",
+    "ru": "Мозаика"
+  },
+  "FrequencyEstimator": {
+    "de": "Augenmaß",
+    "en": "Quick Count",
+    "fr": "Calcul express",
+    "ru": "Быстрый счет"
+  },
+  "IntruderCraft": {
+    "de": "Fokusmeister",
+    "en": "Focus Master",
+    "fr": "Œil de lynx",
+    "ru": "Детектив"
+  },
+  "IntruderCraft": {
+    "de": "Fokusmeister",
+    "en": "Focus Master",
+    "fr": "Œil de lynx",
+    "ru": "Детектив"
+  },
+  "INTRUDERCRAFT X": {
+    "de": "Fokusmeister",
+    "en": "Focus Master",
+    "fr": "Œil de lynx",
+    "ru": "Детектив"
+  },
+  "Konzentrationstest - Colorado": {
+    "de": "Konzentration",
+    "en": "Concentration",
+    "fr": "Concentration",
+    "ru": "Концентрация"
+  },
+  "Kursus Memoria": {
+    "de": "Kursus Memoria",
+    "en": "Memoria Course",
+    "fr": "Cours Memoria (pas sur web)",
+    "ru": "Курс Memoria"
+  },
+  "Letter Selector": {
+    "de": "Dominowort",
+    "en": "Domino Word",
+    "fr": "Dominomo",
+    "ru": "Домино"
+  },
+  "LetterDough": {
+    "de": "Wortschatz",
+    "en": "Dictionary",
+    "fr": "Dico",
+    "ru": "Словарь"
+  },
+  "LetterIncluder": {
+    "de": "Passwort",
+    "en": "Password",
+    "fr": "Passe mot",
+    "ru": "Пароль"
+  },
+  "LetterSelector": {
+    "de": "Dominowort",
+    "en": "Domino Word",
+    "fr": "Dominomo",
+    "ru": "Домино"
+  },
+  "Logic-Test: MULTICHAIN X": {
+    "de": "IQ-Regler",
+    "en": "Missing Link",
+    "fr": "Oublio",
+    "ru": "Дедукцио"
+  },
+  "LogicChain": {
+    "de": "Zahlenwerk",
+    "en": "Logiladder",
+    "fr": "Logiliens",
+    "ru": "Логицепь"
+  },
+  "LOGICCHAIN X": {
+    "de": "Zahlenwerk",
+    "en": "Logiladder",
+    "fr": "Logiliens",
+    "ru": "Логицепь"
+  },
+  "Logiktest - Formdreher": {
+    "de": "Logik",
+    "en": "Logic",
+    "fr": "Logique",
+    "ru": "Логика"
+  },
+  "MackRhythm": {
+    "de": "Rhythmusmeister",
+    "en": "Turning Tables",
+    "fr": "Chaises tournantes",
+    "ru": "Ритмолов"
+  },
+  "Mackworth Uhr": {
+    "de": "Mackworth-Uhr",
+    "en": "Clockwise",
+    "fr": "Aiguillo",
+    "ru": "Часы Пилота"
+  },
+  "Mackworth": {
+    "de": "Mackworth-Uhr",
+    "en": "Clockwise",
+    "fr": "Aiguillo",
+    "ru": "Часы Пилота"
+  },
+  "Matching": {
+    "de": "Formula",
+    "en": "Formula",
+    "fr": "Formuli",
+    "ru": "Формула"
+  },
+  "Matching": {
+    "de": "Formula",
+    "en": "Formula",
+    "fr": "Formuli",
+    "ru": "Формула"
+  },
+  "MATCHING X": {
+    "de": "Formula",
+    "en": "Formula",
+    "fr": "Formuli",
+    "ru": "Формула"
+  },
+  "MathChain": {
+    "de": "Zahlenkönig",
+    "en": "Chain Reaction",
+    "fr": "Réacto",
+    "ru": "Цепная реакция"
+  },
+  "MATHCHAIN X": {
+    "de": "Zahlenkönig",
+    "en": "Chain Reaction",
+    "fr": "Réacto",
+    "ru": "Цепная реакция"
+  },
+  "MemoPair": {
+    "de": "Doppelmerker",
+    "en": "Memo Pair",
+    "fr": "Mémo Pair",
+    "ru": "Мемопара"
+  },
+  "MEMORY SPAN X": {
+    "de": "Span-Test",
+    "en": "Memory Span",
+    "fr": "Mémo Span",
+    "ru": "Объем памяти"
+  },
+  "Memory-Test: OSPAN X": {
+    "de": "Serienmerker",
+    "en": "Memory Interrupted",
+    "fr": "Interupto",
+    "ru": "Оракул"
+  },
+  "Memory-Test: RESTORER X": {
+    "de": "Kartenmerker",
+    "en": "Restorer",
+    "fr": "Salva",
+    "ru": "Картовед"
+  },
+  "Memory-Test: ROTATIONDETECTOR X": {
+    "de": "Drehmory",
+    "en": "Turnabout",
+    "fr": "Point Rond",
+    "ru": "Кувырки"
+  },
+  "Memory-Test: RotationNBack": {
+    "de": "Drehfluss",
+    "en": "Tilted Memories",
+    "fr": "Mémo Penchant",
+    "ru": "Волчки"
+  },
+  "Memory-Test: SHUFFLER X": {
+    "de": "Platzmerker",
+    "en": "Shuffler",
+    "fr": "Mélangeur",
+    "ru": "Снайпер"
+  },
+  "MovingLetters": {
+    "de": "Buchstabensalat",
+    "en": "Alphabet Soup",
+    "fr": "Soupalphabet",
+    "ru": "Букварь"
+  },
+  "MovingLetters": {
+    "de": "Buchstabensalat",
+    "en": "Alphabet Soup",
+    "fr": "Soupalphabet",
+    "ru": "Букварь"
+  },
+  "MULTICHAIN X": {
+    "de": "IQ-Regler",
+    "en": "Missing Link",
+    "fr": "Oublio",
+    "ru": "Дедукцио"
+  },
+  "NBack": {
+    "de": "Merkfluss",
+    "en": "Memoflow",
+    "fr": "Mémoflot",
+    "ru": "Мемолента"
+  },
+  "NBACK X": {
+    "de": "Merkfluss",
+    "en": "Memoflow",
+    "fr": "Mémoflot",
+    "ru": "Мемолента"
+  },
+  "MemoFlow Study7": {
+    "de": "Merkfluss",
+    "en": "Memoflow",
+    "fr": "Mémoflot",
+    "ru": "Мемолента"
+  },
+  "MemoFlow Study8": {
+    "de": "Merkfluss",
+    "en": "Memoflow",
+    "fr": "Mémoflot",
+    "ru": "Мемолента"
+  },
+  "OSPAN": {
+    "de": "Serienmerker",
+    "en": "Memory Interrupted",
+    "fr": "Interupto",
+    "ru": "Бухгалтер"
+  },
+  "OSPAN": {
+    "de": "Serienmerker",
+    "en": "Memory Interrupted",
+    "fr": "Interupto",
+    "ru": "Бухгалтер"
+  },
+  "OSPAN X": {
+    "de": "Serienmerker",
+    "en": "Memory Interrupted",
+    "fr": "Interupto",
+    "ru": "Бухгалтер"
+  },
+  "ParaChain": {
+    "de": "Parallelrechner",
+    "en": "Mathrobatics",
+    "fr": "Sérimatiques",
+    "ru": "Процессор"
+  },
+  "PARACHAIN X": {
+    "de": "Parallelrechner",
+    "en": "Mathrobatics",
+    "fr": "Sérimatiques",
+    "ru": "Процессор"
+  },
+  "PATHFINDER REVERSE X": {
+    "de": "Rückfinder",
+    "en": "Path Finder Reverse",
+    "fr": "Trouve-trajet Inversé",
+    "ru": "Следопыт"
+  },
+  "PATHFINDER X": {
+    "de": "Pfadfinder",
+    "en": "Path Finder",
+    "fr": "Trouve-trajet",
+    "ru": "Маршрут"
+  },
+  "PathMemo": {
+    "de": "Pfadfinder",
+    "en": "Path Finder",
+    "fr": "Trouve-trajet",
+    "ru": "Маршрут"
+  },
+  "PathMemo": {
+    "de": "Pfadfinder",
+    "en": "Path Finder",
+    "fr": "Trouve-trajet",
+    "ru": "Маршрут"
+  },
+  "PathPredictor": {
+    "de": "Spurensuche",
+    "en": "Trail Tracker",
+    "fr": "Trace-chemin",
+    "ru": "Лабиринт"
+  },
+  "PathPredictor": {
+    "de": "Spurensuche",
+    "en": "Trail Tracker",
+    "fr": "Trace-chemin",
+    "ru": "Лабиринт"
+  },
+  "PATHPREDICTOR X": {
+    "de": "Spurensuche",
+    "en": "Trail Tracker",
+    "fr": "Trace-chemin",
+    "ru": "Лабиринт"
+  },
+  "PlanarView": {
+    "de": "Adlerauge",
+    "en": "Eagle Eye",
+    "fr": "Visio",
+    "ru": "В стоге сена"
+  },
+  "Restorer": {
+    "de": "Kartenmerker",
+    "en": "Restorer",
+    "fr": "Salva",
+    "ru": "Картовед"
+  },
+  "RESTORER X": {
+    "de": "Kartenmerker",
+    "en": "Restorer",
+    "fr": "Salva",
+    "ru": "Картовед"
+  },
+  "Rotation-Test: UBERCUBE X": {
+    "de": "IQubus",
+    "en": "IQube",
+    "fr": "Icube",
+    "ru": "IQ-куб"
+  },
+  "RotationDedector": {
+    "de": "Drehmory",
+    "en": "Turnabout",
+    "fr": "Volte-face",
+    "ru": "Кувырки"
+  },
+  "RotationDetector": {
+    "de": "Drehmory",
+    "en": "Turnabout",
+    "fr": "Volte-face",
+    "ru": "Кувырки"
+  },
+  "Rotator": {
+    "de": "Formdreher",
+    "en": "Rotator",
+    "fr": "Rotateur",
+    "ru": "Перевертыши"
+  },
+  "Rotator": {
+    "de": "Formdreher",
+    "en": "Rotator",
+    "fr": "Rotateur",
+    "ru": "Перевертыши"
+  },
+  "ROTATOR X": {
+    "de": "Formdreher",
+    "en": "Rotator",
+    "fr": "Rotateur",
+    "ru": "Перевертыши"
+  },
+  "S-KAI": {
+    "de": "S-KAI",
+    "en": "S-KAI",
+    "fr": "S-KAI",
+    "ru": "S-KAI"
+  },
+  "SerialAddition": {
+    "de": "Pluswelle",
+    "en": "Serial Addition",
+    "fr": "Addinator",
+    "ru": ""
+  },
+  "SerialAdditionPlus": {
+    "de": "Pluswelle",
+    "en": "Serial Addition",
+    "fr": "Addinator",
+    "ru": "Счёты"
+  },
+  "SerialAdditionPro": {
+    "de": "Pluswelle",
+    "en": "Serial Addition",
+    "fr": "Addinator",
+    "ru": ""
+  },
+  "SerialAdditionProfi": {
+    "de": "Profi-Addierer",
+    "en": "Serial Addition Master",
+    "fr": "Addinator Master",
+    "ru": "Супер-счёты"
+  },
+  "Shuffler": {
+    "de": "Platzmerker",
+    "en": "Shuffler",
+    "fr": "Mélangeur",
+    "ru": "Снайпер"
+  },
+  "SHUFFLER X": {
+    "de": "Platzmerker",
+    "en": "Shuffler",
+    "fr": "Mélangeur",
+    "ru": "Снайпер"
+  },
+  "Similar exercises": {
+    "de": "Ähnliche Übungen",
+    "en": "Similar exercises",
+    "fr": "Exercices similaires",
+    "ru": "Похожие упражнения"
+  },
+  "SOLITARIA X": {
+    "de": "Solitaria",
+    "en": "Solitaria",
+    "fr": "Solitaria",
+    "ru": "Солитария"
+  },
+  "SoundNBack": {
+    "de": "Parita",
+    "en": "Parita",
+    "fr": "Parita",
+    "ru": "Звукопамять"
+  },
+  "SoundNBack Express": {
+    "de": "Parita Express",
+    "en": "Parita Speed",
+    "fr": "Parita Express",
+    "ru": "Звукопамять Экспресс"
+  },
+  "SoundNBack": {
+    "de": "Parita",
+    "en": "Parita",
+    "fr": "Parita",
+    "ru": "Звукопамять"
+  },
+  "SoundNBackSpeed": {
+    "de": "Parita Express",
+    "en": "Parita Speed",
+    "fr": "Parita Express",
+    "ru": "Звукопамять Экспресс"
+  },
+  "SpatialCWM": {
+    "de": "Spiegelbild",
+    "en": "Reflector",
+    "fr": "Réflecteur",
+    "ru": "Симметрия"
+  },
+  "SPATIALCWM X": {
+    "de": "Spiegelbild",
+    "en": "Reflector",
+    "fr": "Réflecteur",
+    "ru": "Симметрия"
+  },
+  "STROOP X": {
+    "de": "Stroop-Test",
+    "en": "Stroop test",
+    "fr": "Test de Stroop",
+    "ru": "Тест Струпа"
+  },
+  "SumFinder": {
+    "de": "Summarum",
+    "en": "Tally Total",
+    "fr": "Summarum",
+    "ru": "Суммариум"
+  },
+  "Symbolski": {
+    "de": "Mustermerker",
+    "en": "Symbolism",
+    "fr": "Symbolis",
+    "ru": "Символизм"
+  },
+  "TMT X": {
+    "de": "TMT-Test",
+    "en": "TMT test",
+    "fr": "TMT Test",
+    "ru": "Тест TMT"
+  },
+  "TMTC": {
+    "de": "Kettenreaktion",
+    "en": "Quick Switch",
+    "fr": "Basculo",
+    "ru": "Жонглёр"
+  },
+  "UberCube": {
+    "de": "IQubus",
+    "en": "IQube",
+    "fr": "Icube",
+    "ru": "IQ-куб"
+  },
+  "UberCube": {
+    "de": "IQubus",
+    "en": "IQube",
+    "fr": "Icube",
+    "ru": "IQ-куб"
+  },
+  "UBERCUBE X": {
+    "de": "IQubus",
+    "en": "IQube",
+    "fr": "Icube",
+    "ru": "IQ-куб"
+  },
+  "WordCraft": {
+    "de": "Wortschmied",
+    "en": "Word Craft",
+    "fr": "Jeux de mots",
+    "ru": "Словотворчество"
+  },
+  "WordFinder": {
+    "de": "Wortsuche",
+    "en": "Word Detective",
+    "fr": "Chasse au mot",
+    "ru": "Охота на слова"
+  },
+  "WordKnower": {
+    "de": "Wortexperte",
+    "en": "Eloquence",
+    "fr": "Eloquence",
+    "ru": "Красноречие"
+  },
+  "WordScramble": {
+    "de": "Nomensplitter",
+    "en": "Scrambled Words",
+    "fr": "Mot melette",
+    "ru": "Зашифрованные слова"
+  },
+  "Pathfinder Study1": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "Trouve-trajet",
+    "ru": "#REF!"
+  },
+  "Pathfinder Reverse Study1": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "Trouve-trajet inversé",
+    "ru": "#REF!"
+  },
+  "Shuffler Study1": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "Mélangeur",
+    "ru": "#REF!"
+  },
+  "OSPAN Study1": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "Mémoire interrompue",
+    "ru": "#REF!"
+  },
+  "NBack Study1": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "Mémoflot",
+    "ru": "#REF!"
+  },
+  "SoundNBack Study1": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "Parita",
+    "ru": "#REF!"
+  },
+  "BinMemo Study1": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "Mémoboîte",
+    "ru": "#REF!"
+  },
+  "RotationDetector Study1": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "Point Rond",
+    "ru": "#REF!"
+  },
+  "Addetector Study1": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "Polaphoto",
+    "ru": "#REF!"
+  },
+  "Play !exercise_title": {
+    "de": "!exercise_title trainieren",
+    "en": "train !exercise_title",
+    "fr": "Entrainez-vous sur !exercise_title",
+    "ru": "Начать !exercise_title"
+  },
+  "close": {
+    "de": "schließen",
+    "en": "close",
+    "fr": "Fermer",
+    "ru": "Закрыть"
+  },
+  "Flanker": {
+    "de": "Wegweiser",
+    "en": "Escalator",
+    "fr": "Escalator",
+    "ru": "Проводник"
+  },
+  "NBack Study 2": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "DUAL1BACK Study2": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "Restorer Study2": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "PlanarView Study3": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "Activer",
+    "ru": "Активировать"
+  },
+  "MACKWORTH Study3": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "DynamicSequence Study3": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "NBACK Study3": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "BINMEMO Study3": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "Rotator Study3": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "RotationDedector Study3": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "FormFusion Study3": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "UBERCUBE Study3": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "Dual 1 Back Study3": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "SOLITARIA Study3": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "SimplifiedGoNoGo": {
+    "de": "S-Task Switching Homogen A (ElfeKobold)",
+    "en": "S-Task Switching Homogen A (ElfeKobold)",
+    "fr": "S-Task Switching Homogen A (ElfeKobold)",
+    "ru": "S-Task Switching Homogen A (ElfeKobold)"
+  },
+  "SimplifiedStroop": {
+    "de": "S-Task Switching Homogen B (ElfeKobold)",
+    "en": "S-Task Switching Homogen B (ElfeKobold)",
+    "fr": "S-Task Switching Homogen B (ElfeKobold)",
+    "ru": "S-Task Switching Homogen B (ElfeKobold)"
+  },
+  "SimplifiedTaskSwitching": {
+    "de": "S-Task Switching Heterogen (Pflanzen)",
+    "en": "S-Task Switching Heterogen (Pflanzen)",
+    "fr": "S-Task Switching Heterogen (Pflanzen)",
+    "ru": "S-Task Switching Heterogen (Pflanzen)"
+  },
+  "SimplifiedCCT": {
+    "de": "S-Task Switching Heterogen (ElfeKobold)",
+    "en": "S-Task Switching Heterogen (ElfeKobold)",
+    "fr": "S-Task Switching Heterogen (ElfeKobold)",
+    "ru": "S-Task Switching Heterogen (ElfeKobold)"
+  },
+  "SimplifiedFlanker": {
+    "de": "S-Flanker (Zauberstab)",
+    "en": "S-Flanker (Zauberstab)",
+    "fr": "S-Flanker (Zauberstab)",
+    "ru": "S-Flanker (Zauberstab)"
+  },
+  "SimplifiedDualTask": {
+    "de": "S-Dual Task Pure Block (Zauberstein)",
+    "en": "S-Dual Task Pure Block (Zauberstein)",
+    "fr": "S-Dual Task Pure Block (Zauberstein)",
+    "ru": "S-Dual Task Pure Block (Zauberstein)"
+  },
+  "SimplifiedNBack": {
+    "de": "S-NBack (Fabelwesen)",
+    "en": "S-NBack (Fabelwesen)",
+    "fr": "S-NBack (Fabelwesen)",
+    "ru": "S-NBack (Fabelwesen)"
+  },
+  "SimplifiedOSpan": {
+    "de": "S-Serienmerker (Pflanzen)",
+    "en": "S-Serienmerker (Pflanzen)",
+    "fr": "S-Serienmerker (Pflanzen)",
+    "ru": "S-Serienmerker (Pflanzen)"
+  },
+  "SimplifiedPathfinder": {
+    "de": "S-Pfadfinder (Zauberstab)",
+    "en": "S-Pfadfinder (Zauberstab)",
+    "fr": "S-Pfadfinder (Zauberstab)",
+    "ru": "S-Pfadfinder (Zauberstab)"
+  },
+  "SimplifiedFlanker2_Study4": {
+    "de": "S-Flanker (ElfenKobolde)",
+    "en": "S-Flanker (ElfenKobolde)",
+    "fr": "S-Flanker (ElfenKobolde)",
+    "ru": "S-Flanker (ElfenKobolde)"
+  },
+  "SimplifiedGoNoGo2_Study4": {
+    "de": "S-Gonogo (Bücher)",
+    "en": "S-Gonogo (Bücher)",
+    "fr": "S-Gonogo (Bücher)",
+    "ru": "S-Gonogo (Bücher)"
+  },
+  "SimplifiedStroop2_Study4": {
+    "de": "S-Stroop (Tiere)",
+    "en": "S-Stroop (Tiere)",
+    "fr": "S-Stroop (Tiere)",
+    "ru": "S-Stroop (Tiere)"
+  },
+  "SimplifiedCCT2_Study4": {
+    "de": "S-CCT (Musik)",
+    "en": "S-CCT (Musik)",
+    "fr": "S-CCT (Musik)",
+    "ru": "S-CCT (Musik)"
+  },
+  "SimplifiedSoundNBack2_Study4": {
+    "de": "S-NBack (Tiere)",
+    "en": "S-NBack (Tiere)",
+    "fr": "S-NBack (Tiere)",
+    "ru": "S-NBack (Tiere)"
+  },
+  "SimplifiedOSPAN2_Study4": {
+    "de": "S-Serienmerker (Drachen)",
+    "en": "S-Serienmerker (Drachen)",
+    "fr": "S-Serienmerker (Drachen)",
+    "ru": "S-Serienmerker (Drachen)"
+  },
+  "SimplifiedPathMemo2_Study4": {
+    "de": "S-Pfadfinder (Elfe)",
+    "en": "S-Pfadfinder (Elfe)",
+    "fr": "S-Pfadfinder (Elfe)",
+    "ru": "S-Pfadfinder (Elfe)"
+  },
+  "SimplifiedFlanker3_Study4": {
+    "de": "S-Flanker (Pfeile)",
+    "en": "S-Flanker (Pfeile)",
+    "fr": "S-Flanker (Pfeile)",
+    "ru": "S-Flanker (Pfeile)"
+  },
+  "SimplifiedGoNoGo3_Study4": {
+    "de": "S-Gonogo (Blumen)",
+    "en": "S-Gonogo (Blumen)",
+    "fr": "S-Gonogo (Blumen)",
+    "ru": "S-Gonogo (Blumen)"
+  },
+  "SimplifiedStroop3_Study4": {
+    "de": "S-Stroop (Obst)",
+    "en": "S-Stroop (Obst)",
+    "fr": "S-Stroop (Obst)",
+    "ru": "S-Stroop (Obst)"
+  },
+  "SimplifiedCCT3_Study4": {
+    "de": "S-CCT (Zauberzubehör)",
+    "en": "S-CCT (Zauberzubehör)",
+    "fr": "S-CCT (Zauberzubehör)",
+    "ru": "S-CCT (Zauberzubehör)"
+  },
+  "SimplifiedSoundNBack3_Study4": {
+    "de": "S-NBack (Zauberzubehör)",
+    "en": "S-NBack (Zauberzubehör)",
+    "fr": "S-NBack (Zauberzubehör)",
+    "ru": "S-NBack (Zauberzubehör)"
+  },
+  "SimplifiedOSPAN3_Study4": {
+    "de": "S-Serienmerker (Dinos)",
+    "en": "S-Serienmerker (Dinos)",
+    "fr": "S-Serienmerker (Dinos)",
+    "ru": "S-Serienmerker (Dinos)"
+  },
+  "SimplifiedPathMemo3_Study4": {
+    "de": "S-Pfadfinder (Flugzeug)",
+    "en": "S-Pfadfinder (Flugzeug)",
+    "fr": "S-Pfadfinder (Flugzeug)",
+    "ru": "S-Pfadfinder (Flugzeug)"
+  },
+  "SimplifiedTaskSwitching6_Study4": {
+    "de": "S-Task Switching Homogen A (DracheTroll)",
+    "en": "S-Task Switching Homogen A (DracheTroll)",
+    "fr": "S-Task Switching Homogen A (DracheTroll)",
+    "ru": "S-Task Switching Homogen A (DracheTroll)"
+  },
+  "SimplifiedTaskSwitching7_Study4": {
+    "de": "S-Task Switching Homogen B (DracheTroll)",
+    "en": "S-Task Switching Homogen B (DracheTroll)",
+    "fr": "S-Task Switching Homogen B (DracheTroll)",
+    "ru": "S-Task Switching Homogen B (DracheTroll)"
+  },
+  "SimplifiedTaskSwitching8_Study4": {
+    "de": "S-Task Switching Heterogen (DracheTroll)",
+    "en": "S-Task Switching Heterogen (DracheTroll)",
+    "fr": "S-Task Switching Heterogen (DracheTroll)",
+    "ru": "S-Task Switching Heterogen (DracheTroll)"
+  },
+  "SimplifiedTaskSwitching9_Study4": {
+    "de": "S-Task Switching Homogen A (Obst)",
+    "en": "S-Task Switching Homogen A (Obst)",
+    "fr": "S-Task Switching Homogen A (Obst)",
+    "ru": "S-Task Switching Homogen A (Obst)"
+  },
+  "SimplifiedTaskSwitching10_Study4": {
+    "de": "S-Task Switching Homogen B (Obst)",
+    "en": "S-Task Switching Homogen B (Obst)",
+    "fr": "S-Task Switching Homogen B (Obst)",
+    "ru": "S-Task Switching Homogen B (Obst)"
+  },
+  "SimplifiedTaskSwitching11_Study4": {
+    "de": "S-Task Switching Heterogen (Obst)",
+    "en": "S-Task Switching Heterogen (Obst)",
+    "fr": "S-Task Switching Heterogen (Obst)",
+    "ru": "S-Task Switching Heterogen (Obst)"
+  },
+  "SimplifiedDualTask4_Study4": {
+    "de": "S-Dual Task Pure Block (Elfe)",
+    "en": "S-Dual Task Pure Block (Elfe)",
+    "fr": "S-Dual Task Pure Block (Elfe)",
+    "ru": "S-Dual Task Pure Block (Elfe)"
+  },
+  "SimplifiedDualTask5_Study4": {
+    "de": "S-Dual Task Mixed Block (Elfe)",
+    "en": "S-Dual Task Mixed Block (Elfe)",
+    "fr": "S-Dual Task Mixed Block (Elfe)",
+    "ru": "S-Dual Task Mixed Block (Elfe)"
+  },
+  "SimplifiedDualTask6_Study4": {
+    "de": "S-Dual Task Pure Block (Musik)",
+    "en": "S-Dual Task Pure Block (Musik)",
+    "fr": "S-Dual Task Pure Block (Musik)",
+    "ru": "S-Dual Task Pure Block (Musik)"
+  },
+  "SimplifiedDualTask7_Study4": {
+    "de": "S-Dual Task Mixed Block (Musik)",
+    "en": "S-Dual Task Mixed Block (Musik)",
+    "fr": "S-Dual Task Mixed Block (Musik)",
+    "ru": "S-Dual Task Mixed Block (Musik)"
+  },
+  "OSPAN Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "SpatialCWM Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "Pathfinder Reverse Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "BinMemo Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "SoundNBack Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "MackWorth Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "Sequence Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "MackRhythm Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "PlanarView Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "MovingLetters Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "FormFeverSpeed Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "Flanker Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "ColorCraze Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "ColorConfusion Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "TMTC Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "ParaChain Study5": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "ColorCraze Study6": {
+    "de": "Einstufungstest",
+    "en": "",
+    "fr": "",
+    "ru": ""
+  },
+  "ColorConfusion Study6": {
+    "de": "Einstufungstest",
+    "en": "",
+    "fr": "",
+    "ru": ""
+  },
+  "TMTA Study9": {
+    "de": "TMT A",
+    "en": "TMT A",
+    "fr": "TMT A",
+    "ru": "TMT A"
+  },
+  "TMTB Study9": {
+    "de": "TMT B",
+    "en": "TMT B",
+    "fr": "TMT B",
+    "ru": "TMT B"
+  },
+  "Stroop Study9": {
+    "de": "Stroop",
+    "en": "Stroop",
+    "fr": "Stroop",
+    "ru": "Stroop"
+  },
+  "Pathfinder Study 10": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "Planarview Study 10": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "AddDetector Study 10": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "ColorCraze Study 10": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "TMTC Study 10": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "Mackworth Study 10": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "LetterIncluder Study 10": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "WordCraft Study 10": {
+    "de": "#REF!",
+    "en": "#REF!",
+    "fr": "#REF!",
+    "ru": "#REF!"
+  },
+  "FormFeverSpeed": {
+    "de": "Formfieber Express",
+    "en": "Form Fever Speed",
+    "fr": "Formfolie express",
+    "ru": "Фигуранты Экспресс"
+  },
+  "PathMemoReverse": {
+    "de": "Rückfinder",
+    "en": "Path Finder Reverse",
+    "fr": "Trouve-trajet Inversé",
+    "ru": "Следопыт"
+  }
+}
